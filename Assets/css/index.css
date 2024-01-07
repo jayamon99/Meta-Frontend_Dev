@@ -59,7 +59,7 @@ article {
   padding-left: 1rem;
   padding-right: 1rem;
   border-radius: 1rem;
-  box-shadow: 0px 2px 20px grey;
+  box-shadow: 0px 2px 20px #808080;
 }
 
 article img {
@@ -76,7 +76,7 @@ article img {
 }
 
 .promotion article {
-  background: rgba(10, 10, 10, 0.4) no-repeat center/cover;
+  background: #0a0a0a66 no-repeat center/cover;
   border-radius: inherit;
   padding: 0 0.8rem;
 }

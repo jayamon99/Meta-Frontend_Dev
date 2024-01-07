@@ -69,8 +69,7 @@ article img {
 }
 
 .promotion {
-  background: url('/Lucky_Shrub_Portfolio/Assets/images/grden.jfif') no-repeat
-    center/cover;
+  background: url(../images/grden.jfif) no-repeat center/cover;
   color: #f0e4f4;
   border-radius: 1rem;
   transition: transform 0.2s ease-in-out;
